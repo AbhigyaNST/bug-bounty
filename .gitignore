@@ -1,0 +1,7 @@
+*.framework/
+*.app/
+*.asar
+*.node
+*.map
+Athena/
+Heimdal/
